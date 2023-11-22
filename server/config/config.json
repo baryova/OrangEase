@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "hrdcdnde",
+    "password": "d3vHRDcdn2023@@",
+    "database": "hrdcdnde_orangease",
+    "host": "103.152.242.2",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
